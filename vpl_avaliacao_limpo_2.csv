@@ -1,0 +1,47 @@
+USERID;VPL;ID_vpl;DATESSUBMITTED;COMMENTS;DATEGRADED;GRADE;DATA_ENVIO;DATA_AVALIACAO;NOTA;CONTAGEM;ID_alunos;FIRSTNAME;LASTNAME;NAME;NOME_ALUNO
+18;98;18586;1683590545;;1685582796;900.000;2023-05-09 00:02:25;2023-06-01 01:26:36;9.0;73;18;Pedro;Victor Soares da Silva Araújo;Meu Primeiro Projeto;Pedro Victor Soares da Silva Araújo
+20;98;26650;1685542023;"Enviado por Administrador Usuário
+";1685557582;1.000.000;2023-05-31 14:07:03;2023-05-31 18:26:22;10.0;41;20;Crisfieldy;Aristodenes;Meu Primeiro Projeto;Crisfieldy Aristodenes Feitoza Ribeiro
+21;98;26692;1685561421;"Enviado por Administrador Usuário
+";1685561629;1.000.000;2023-05-31 19:30:21;2023-05-31 19:33:49;10.0;117;21;Neudson;Gabriel;Meu Primeiro Projeto;Neudson Gabriel C. C. Branco
+22;98;26690;1685558294;"Enviado por Administrador Usuário
+";1685558354;1.000.000;2023-05-31 18:38:14;2023-05-31 18:39:14;10.0;19;22;José Cássios;Costa Torres;Meu Primeiro Projeto;José Cássios Costa Torres
+23;98;18604;1683590727;;1685579475;1.000.000;2023-05-09 00:05:27;2023-06-01 00:31:15;10.0;87;23;Raislan;Ítalo;Meu Primeiro Projeto;Raislan Ítalo de Sousa da Silva
+25;98;26468;1685468475;"Enviado por Administrador Usuário
+";1685576675;1.000.000;2023-05-30 17:41:15;2023-05-31 23:44:35;10.0;80;25;Ávila;Araújo;Meu Primeiro Projeto;Ávila da Conceição Araújo
+26;98;18603;1683590716;;1685576703;1.000.000;2023-05-09 00:05:16;2023-05-31 23:45:03;10.0;39;26;Carlos Eduardo;Lima Coutinho;Meu Primeiro Projeto;Carlos Eduardo Lima Coutinho
+27;98;26662;1685544273;"Enviado por Administrador Usuário
+";1685557640;900.000;2023-05-31 14:44:33;2023-05-31 18:27:20;9.0;44;27;Luis Felipe;Assunção Pereira;Meu Primeiro Projeto;Luis Felipe Assunção Pereira
+28;98;18903;1683594285;;1685576910;1.000.000;2023-05-09 01:04:45;2023-05-31 23:48:30;10.0;93;28;Ycaro Yan;Lourenço Santos;Meu Primeiro Projeto;Ycaro Yan Lourenço Santos
+29;98;19251;1683599763;;1685582071;900.000;2023-05-09 02:36:03;2023-06-01 01:14:31;9.0;59;29;Randerson;Sousa de Sá Nunes;Meu Primeiro Projeto;Randerson Sousa de Sá Nunes
+30;98;18461;1683589189;;1685578713;1.000.000;2023-05-08 23:39:49;2023-06-01 00:18:33;10.0;38;30;Jonas Davi;Nogueira Sena;Meu Primeiro Projeto;Jonas Davi Nogueira Sena
+31;98;26693;1685561939;"Enviado por Administrador Usuário
+";1685562317;500.000;2023-05-31 19:38:59;2023-05-31 19:45:17;5.0;36;31;Roberto;Guilhon;Meu Primeiro Projeto;Roberto Guilhon Rosa Filho
+34;98;19048;1683596514;;1685582576;1.000.000;2023-05-09 01:41:54;2023-06-01 01:22:56;10.0;85;34;Gabriel;Viana da Costa;Meu Primeiro Projeto;Gabriel Viana Da Costa
+35;98;18997;1683595528;;1685581400;800.000;2023-05-09 01:25:28;2023-06-01 01:03:20;8.0;40;35;Francisco Leonel Ferreira dos;Santos;Meu Primeiro Projeto;Francisco Leonel Ferreira dos Santos
+36;98;18363;1683586589;;1685578987;1.000.000;2023-05-08 22:56:29;2023-06-01 00:23:07;10.0;85;36;Gabriel;Oliveira;Meu Primeiro Projeto;Gabriel Antonio Assunção Oliveira
+37;98;18281;1683584808;;1685561030;1.000.000;2023-05-08 22:26:48;2023-05-31 19:23:50;10.0;103;37;Samuel Ryan;Fonseca Anunciação;Meu Primeiro Projeto;Samuel Ryan da Fonseca Anunciação
+38;98;19035;1683596158;;1685557747;900.000;2023-05-09 01:35:58;2023-05-31 18:29:07;9.0;43;38;Hipócrates;Augusto;Meu Primeiro Projeto;Hipócrates Augusto Soares Brandão Galvão de Carvalho
+39;98;26689;1685556557;"Enviado por Administrador Usuário
+";1685559135;1.000.000;2023-05-31 18:09:17;2023-05-31 18:52:15;10.0;113;39;Heráclito Thiago;Castro Santos;Meu Primeiro Projeto;Heráclito Thiago de Castro Santos
+40;98;19354;1683600965;;1685582334;400.000;2023-05-09 02:56:05;2023-06-01 01:18:54;4.0;23;40;DURVAL;VELOSO BARBOSA FILHO;Meu Primeiro Projeto;Durval Veloso Barbosa Filho
+41;98;18870;1683593805;;1685583033;1.000.000;2023-05-09 00:56:45;2023-06-01 01:30:33;10.0;44;41;Antonio;Wills;Meu Primeiro Projeto;Antonio Wills da Silva Santos
+42;98;18832;1683593454;;1685560863;700.000;2023-05-09 00:50:54;2023-05-31 19:21:03;7.0;29;42;Victor;Emanuel;Meu Primeiro Projeto;Victor Emanuel Cunha Morais
+43;98;18539;1683590186;;1685581634;800.000;2023-05-08 23:56:26;2023-06-01 01:07:14;8.0;54;43;Danielly ;Santos;Meu Primeiro Projeto;Danielly dos Santos Almeida
+44;98;19067;1683596918;;1685558978;1.000.000;2023-05-09 01:48:38;2023-05-31 18:49:38;10.0;57;44;Lara Emanuelly;Da Silva Santos;Meu Primeiro Projeto;Lara Emanuelly da Silva Santos
+45;98;26695;1685578234;"Enviado por Administrador Usuário
+";1685578516;600.000;2023-06-01 00:10:34;2023-06-01 00:15:16;6.0;69;45;Gustavo;Neves;Meu Primeiro Projeto;Gustavo Neves
+46;98;18690;1683592071;;1685557497;800.000;2023-05-09 00:27:51;2023-05-31 18:24:57;8.0;37;46;Loyse;Cardoso;Meu Primeiro Projeto;Loyse Kelly Cardoso Diniz
+47;98;18189;1683581060;;1685576173;400.000;2023-05-08 21:24:20;2023-05-31 23:36:13;4.0;38;47;Saymon;Italo;Meu Primeiro Projeto;Saymon Italo Cordeiro de Moura
+48;98;18990;1683595419;;1685580241;900.000;2023-05-09 01:23:39;2023-06-01 00:44:01;9.0;69;48;Guilherme;Oliveira de Menezes;Meu Primeiro Projeto;Guilherme Oliveira de Menezes
+49;98;19363;1683601100;;1685581216;1.000.000;2023-05-09 02:58:20;2023-06-01 01:00:16;10.0;62;49;Juan;Pablo;Meu Primeiro Projeto;Juan Pablo de sousa silva
+50;98;17607;1683568248;;1685582919;1.000.000;2023-05-08 17:50:48;2023-06-01 01:28:39;10.0;20;50;Evelly Victory;Vieira Pinto;Meu Primeiro Projeto;Evelly Victory Vieira Pinto
+51;98;26691;1685559547;"Enviado por Administrador Usuário
+Atividade avaliativa entregue e comentada com desafio concluído";1685559866;1.000.000;2023-05-31 18:59:07;2023-05-31 19:04:26;10.0;82;51;Lucas;Eduardo;Meu Primeiro Projeto;Lucas Eduardo Lima Da Silva
+52;98;19022;1683595843;;1683595849;0;2023-05-09 01:30:43;2023-05-09 01:30:49;0.0;5;52;Willian;Furtado;Meu Primeiro Projeto;Willian Jorge Sousa Furtado
+54;98;19241;1683599668;;1685579346;1.000.000;2023-05-09 02:34:28;2023-06-01 00:29:06;10.0;52;54;Isaac Levi ;Oliveira Chaves;Meu Primeiro Projeto;Isaac Levi Oliveira Chaves
+56;98;17740;1683568859;;1685582479;800.000;2023-05-08 18:00:59;2023-06-01 01:21:19;8.0;13;56;Alisson;Vaz Silva;Meu Primeiro Projeto;Alisson vaz silva
+57;98;19294;1683600153;;1685578122;1.000.000;2023-05-09 02:42:33;2023-06-01 00:08:42;10.0;107;57;Luis Eduardo;Martins Formiga;Meu Primeiro Projeto;Luis Eduardo Martins Formiga
+60;98;19238;1683599657;;1685580580;800.000;2023-05-09 02:34:17;2023-06-01 00:49:40;8.0;105;60;Mickaela;de Freitas;Meu Primeiro Projeto;Mickaela evely Sousa de Freitas
+63;98;19207;1683599193;;1685620302;700.000;2023-05-09 02:26:33;2023-06-01 11:51:42;7.0;66;63;Alexandre;Henrique;Meu Primeiro Projeto;Alexandre Henrique Oliveira de Sousa
+65;98;19303;1683600278;;1685581852;200.000;2023-05-09 02:44:38;2023-06-01 01:10:52;2.0;105;65;Debriane;Silva;Meu Primeiro Projeto;Debriane da Silva Conceição

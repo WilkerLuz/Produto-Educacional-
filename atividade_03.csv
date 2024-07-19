@@ -1,39 +1,39 @@
-ID,USERID,EXPERIENCIA,ALG_03,BASE_ALG_03,DEC_03,BASE_DEC_03,REC_03,BASE_REC_03,ABS_03,BASE_ABS_03,TOTAL_ATIVIDADE_03
-aluno 01,63,2,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 02,56,2,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 03,41,1,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 04,25,2,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 05,26,3,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 06,20,3,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 07,43,2,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 08,65,3,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 09,40,2,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 10,50,2,P,1.25,P,1.25,P,1.25,P,1.25,5.0
-aluno 11,35,2,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 12,36,3,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 13,34,1,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 14,48,1,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 15,53,1,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 16,45,1,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 17,39,3,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 18,38,4,P,1.25,S,2.5,S,2.5,S,2.5,8.75
-aluno 19,54,2,P,1.25,P,1.25,P,1.25,P,1.25,5.0
-aluno 20,30,2,P,1.25,S,2.5,S,2.5,S,2.5,8.75
-aluno 21,22,2,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 22,49,3,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 24,44,2,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 25,46,2,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 26,51,1,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 27,57,4,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 28,27,1,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 29,60,1,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 30,21,3,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 31,18,2,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 32,23,2,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 33,29,2,P,1.25,P,1.25,P,1.25,P,1.25,5.0
-aluno 34,31,2,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 35,37,1,P,1.25,P,1.25,P,1.25,P,1.25,5.0
-aluno 36,47,1,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 37,42,1,S,2.5,S,2.5,S,2.5,S,2.5,10.0
-aluno 38,52,1,,0.0,,0.0,,0.0,,0.0,0.0
-aluno 39,28,3,S,2.5,S,2.5,S,2.5,S,2.5,10.0
+ID,USERID,NOME,EXPERIENCIA,ALG_03,BASE_ALG_03,DEC_03,BASE_DEC_03,REC_03,BASE_REC_03,ABS_03,BASE_ABS_03,TOTAL_ATIVIDADE_03
+aluno 01,63,Alexandre Henrique Oliveira de Sousa,2,,0,,0,,0,,0,0
+aluno 02,56,Alisson vaz silva,2,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 03,41,Antonio Wills da Silva Santos,1,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 04,25,Ávila da Conceição Araújo,2,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 05,26,Carlos Eduardo Lima Coutinho,3,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 06,20,Crisfieldy Aristodenes Feitoza Ribeiro,3,,0,,0,,0,,0,0
+aluno 07,43,Danielly dos Santos Almeida,2,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 08,65,Debriane da Silva Conceição,3,,0,,0,,0,,0,0
+aluno 09,40,Durval Veloso Barbosa Filho,2,,0,,0,,0,,0,0
+aluno 10,50,Evelly Victory Vieira Pinto,2,P,1.25,P,1.25,P,1.25,P,1.25,5
+aluno 11,35,Francisco Leonel Ferreira dos Santos,2,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 12,36,Gabriel Antonio Assunção Oliveira,3,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 13,34,Gabriel Viana Da Costa,1,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 14,48,Guilherme Oliveira de Menezes,1,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 15,53,Gustavo Marinho Santos,1,,0,,0,,0,,0,0
+aluno 16,45,Gustavo Neves,1,,0,,0,,0,,0,0
+aluno 17,39,Heráclito Thiago de Castro Santos,3,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 18,38,Hipócrates Augusto Soares Brandão Galvão de Carvalho,4,P,1.25,S,2.5,S,2.5,S,2.5,8.75
+aluno 19,54,Isaac Levi Oliveira Chaves,2,P,1.25,P,1.25,P,1.25,P,1.25,5
+aluno 20,30,Jonas Davi Nogueira Sena,2,P,1.25,S,2.5,S,2.5,S,2.5,8.75
+aluno 21,22,José Cássios Costa Torres,2,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 22,49,Juan Pablo de sousa silva,3,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 24,44,Lara Emanuelly da Silva Santos,2,,0,,0,,0,,0,0
+aluno 25,46,Loyse Kelly Cardoso Diniz,2,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 26,51,Lucas Eduardo Lima Da Silva,1,,0,,0,,0,,0,0
+aluno 27,57,Luis Eduardo Martins Formiga,4,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 28,27,Luis Felipe Assunção Pereira,1,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 29,60,Mickaela evely Sousa de Freitas,1,,0,,0,,0,,0,0
+aluno 30,21,Neudson Gabriel C. C. Branco,3,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 31,18,Pedro Victor Soares da Silva Araújo,2,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 32,23,Raislan Ítalo de Sousa da Silva,2,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 33,29,Randerson Sousa de Sá Nunes,2,P,1.25,P,1.25,P,1.25,P,1.25,5
+aluno 34,31,Roberto Guilhon Rosa Filho,2,,0,,0,,0,,0,0
+aluno 35,37,Samuel Ryan da Fonseca Anunciação,1,P,1.25,P,1.25,P,1.25,P,1.25,5
+aluno 36,47,Saymon Italo Cordeiro de Moura,1,,0,,0,,0,,0,0
+aluno 37,42,Victor Emanuel Cunha Morais,1,S,2.5,S,2.5,S,2.5,S,2.5,10
+aluno 38,52,Willian Jorge Sousa Furtado,1,,0,,0,,0,,0,0
+aluno 39,28,Ycaro Yan Lourenço Santos,3,S,2.5,S,2.5,S,2.5,S,2.5,10
